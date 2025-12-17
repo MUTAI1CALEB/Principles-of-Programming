@@ -1,0 +1,1 @@
+This repo is an assignment that requires me to display inderstanding of arrays and linked lists implementation using 4 languages. The languages i've used are C, Python, Java and Pascal.
